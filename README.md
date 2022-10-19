@@ -23,4 +23,6 @@
 
   
   
-</div>
+</div> <br/>
+
+Apaixonado por tecnologia e tudo que ela pode proporcionar! Louco de café e adora aprender coisas novas!
