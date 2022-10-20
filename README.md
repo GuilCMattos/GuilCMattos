@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme ✌️
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilCMattos&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilCMattos&layout=tokyonight)](https://github.com/GuilCMattos/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilCMattos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimattozs/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-mattos/) 
